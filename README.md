@@ -1,5 +1,9 @@
 # computation_genomics
 
+Codes Explanation: 
+
+1. Read, Clean and Assemble Genome: https://medium.com/@npuri.24/computational-genomics-reading-cleaning-and-performing-genome-assembly-95b362edf72e
+
 
 conda create -n nextflow-env
 
